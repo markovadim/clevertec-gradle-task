@@ -1,0 +1,9 @@
+pluginManagement{
+    repositories {
+        mavenLocal()
+    }
+}
+rootProject.name = 'clevertec-gradle-task'
+include 'core'
+include 'api'
+
